@@ -17,11 +17,18 @@ Country of Origin,Shoe Code,Shoe Name,Shoe Price,Shoe Quantity
 
 Upon running the script you'll be greeted by an interface in the console detailing the options in which you can enter to complete specific tasks. These tasks consist of:
 1. Reload shoes inventory
+    * Reloads the current stored inventory in the script with the inventory.txt file in case it has been changed.
 2. Add a shoe to the invetory
+    * Allows you to add shoes to the the inventory.txt file. Will require a reload to view changes.
 3. View all shoes in the inventory
+    * Allows you to view all the shoes currently in the inventory. This is useful to get a specific shoe's code.
 4. Restock a shoe
+    * Allows you to add stockt to a specific shoe.
 5. Search for a shoe
+    * Allows you to search for a specific shoe using its code.
 6. Total stock value for all shoes
+    * Shows the total combined value for all the shoes currently in stock in your inventory.
 7. Show the shoe with the highest amount of stock
+    * Shows all the details on the shoe with the most amount of stock.
 
 In order to make a selection all one has to do is input the number referencing the choice and hit enter to follow the next set of prompts should there be any.
