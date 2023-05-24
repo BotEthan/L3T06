@@ -3,9 +3,9 @@ This script is a basic implementation of an inventory manager from my L1T30 task
 This is a command line interface script. Everything to manage the inventory is done in the console running it.
 
 ## Table of Contents:
-* [Installation](https://github.com/BotEthan/L3T06/blob/main/README.md#installation)
+* [Installation](https://github.com/BotEthan/L3T06/#installation)
 
-* [Usage](https://github.com/BotEthan/L3T06/blob/main/README.md#usage)
+* [Usage](https://github.com/BotEthan/L3T06/#usage)
 
 
 ## Installation
