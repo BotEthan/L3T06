@@ -3,9 +3,9 @@ This script is a basic implementation of an inventory manager from my L1T30 task
 This is a command line interface script. Everything to manage the inventory is done in the console running it.
 
 ## Table of Contents:
-[• Installation]([#/Installation])
+[• Installation]([Installation])
 
-[• Usage]([#/Usage])
+[• Usage]([Usage])
 
 
 ## Installation
