@@ -165,7 +165,7 @@ def re_stock():
     #Notification that the code worked
     print(f"Succesfully added {restock_quantity} stock to {shoe_data[2]}")
 
-def seach_shoe():
+def search_shoe():
     '''
      This function will search for a shoe from the list
      using the shoe code and return this object so that it will be printed.
@@ -263,7 +263,7 @@ while 1:
         case 3: view_all()
         case 4: re_stock()
         case 5: 
-            found_shoe = seach_shoe()
+            found_shoe = search_shoe()
             if found_shoe:
                 shoe_data = [(found_shoe.__str__()).split(", ")]
                 print(f"Found a shoe with the following details\n{tabulate(shoe_data, headers=['Country', 'Code', 'Product', 'Cost (Rand)', 'Quantity'])}")
