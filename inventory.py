@@ -110,7 +110,6 @@ def view_all():
     print(tabulate(shoe_data, headers=["Country", "Code", "Product", "Cost (Rand)", "Quantity"]))
 
 def re_stock():
-    pass
     '''
     This function will find the shoe object with the lowest quantity,
     which is the shoes that need to be re-stocked. Ask the user if they
